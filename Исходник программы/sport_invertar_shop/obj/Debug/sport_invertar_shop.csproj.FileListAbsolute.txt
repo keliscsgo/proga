@@ -1,0 +1,101 @@
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe.config
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\bin\Debug\sport_invertar_shop.pdb
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Properties.Resources.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.exe
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.pdb
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Auth.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.SignUp.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.AdminPanel.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.Home.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.PostavPanel.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControll.Products.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Profile.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Baskets.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.ProductPostav.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.ProductPage.resources
+C:\Users\Admin\source\repos\sport_invertar_shop\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.UserItem.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe.config
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.AdminPanel.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Auth.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.Home.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.PostavPanel.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.ProductPage.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.SignUp.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Properties.Resources.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Baskets.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.ProductPostav.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControll.Products.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Profile.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.UserItem.resources
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.exe
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.pdb
+C:\Users\user\Desktop\КП Гордеев\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.pdb
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.AssemblyReference.cache
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe.config
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.pdb
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.AdminPanel.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Auth.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.Home.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.PostavPanel.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.ProductPage.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.SignUp.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Properties.Resources.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Baskets.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.ProductPostav.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControll.Products.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Profile.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.UserItem.resources
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.GenerateResource.cache
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.CoreCompileInputs.cache
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.exe
+C:\Users\Tr3gan\OneDrive\Desktop\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.pdb
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe.config
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.pdb
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.AssemblyReference.cache
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.AdminPanel.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Auth.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.Home.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.PostavPanel.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.ProductPage.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.SignUp.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Properties.Resources.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Baskets.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.ProductPostav.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControll.Products.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Profile.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.UserItem.resources
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.GenerateResource.cache
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.CoreCompileInputs.cache
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.exe
+C:\Users\Фрол Петелин\Downloads\kp\Кп версия 1\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.pdb
+E:\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe.config
+E:\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.exe
+E:\Исходник программы\sport_invertar_shop\bin\Debug\sport_invertar_shop.pdb
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.AssemblyReference.cache
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.AdminPanel.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Auth.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.Home.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.PostavPanel.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.ProductPage.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Forms.SignUp.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.Properties.Resources.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Baskets.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.ProductPostav.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControll.Products.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.Profile.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.UserControls.UserItem.resources
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.GenerateResource.cache
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.csproj.CoreCompileInputs.cache
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.exe
+E:\Исходник программы\sport_invertar_shop\obj\Debug\sport_invertar_shop.pdb
